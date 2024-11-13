@@ -36,7 +36,7 @@ image: ./images/linkedin-profile-min.jpg
 
 <v-clicks>
 
-- 👋 Soy John
+- 👋 Soy Francisco J. Lopez
 - 💻 Full Stack Developer (8 años de experiencia)
 - 🎯 Especializado en Frontend
 - 🎓 Egresado del ITSTB en Sistemas Comunicacionales
