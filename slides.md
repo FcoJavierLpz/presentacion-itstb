@@ -321,6 +321,45 @@ background: 'linear-gradient(135deg, #000428 0%, #004e92 100%)'
 </div>
 
 ---
+layout: two-cols
+---
+
+# <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Crea Tu Primer Proyecto Web con IA</span>
+<v-clicks>
+<div class="text-sm">
+  <p>Aprende a crear tu página web con <strong>Bolt.new</strong>, una herramienta de inteligencia artificial. Sigue estos pasos:</p>
+  <ol>
+    <li>Visita y crea una cuenta en <a href="https://bolt.new" target="_blank">bolt.new</a>.</li>
+    <li>Utiliza el asistente de IA para generar contenido.</li>
+    <li>Personaliza el diseño y colores.</li>
+    <li>Haz clic en "Publicar" para lanzar tu sitio.</li>
+  </ol>
+  <p>¡Tu sitio web ya está en línea! Experimenta y añade más secciones.</p>
+</div>
+</v-clicks>
+::right::
+<v-clicks>
+
+<div class="ml-4">
+  <h3 class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-purple-400">Ejemplo de Script para Contenido</h3>
+  <div class="bg-gray-800 text-white p-4 rounded">
+    <p>
+      Crear una página web con Astro, que destaque mis habilidades y proyectos como estudiante de "informática", implementando principios de diseño UX/UI.
+      <br><br>
+      Características:
+    </p>
+    <ul>
+      <li>Biografía Personal</li>
+      <li>Habilidades y Tecnologías</li>
+      <li>Proyectos y Logros</li>
+      <li>Objetivos Profesionales</li>
+      <li>Redes de Contacto</li>
+    </ul>
+  </div>
+</div>
+</v-clicks>
+
+---
 layout: default
 ---
 
