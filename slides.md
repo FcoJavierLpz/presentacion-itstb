@@ -29,7 +29,7 @@ css: unocss
 
 ---
 layout: image-right
-image: ./images/linkedin-profile-min.jpg
+image: https://cdn-photos.occ.com.mx/images/photos/300x300/d75/d7547857add749048322daadad6c502a.jpg
 ---
 
 # <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">¿Quién soy?</span>
