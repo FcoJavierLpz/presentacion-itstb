@@ -102,7 +102,7 @@ background: 'linear-gradient(135deg, #000428 0%, #004e92 100%)'
 <div class="p-4 rounded backdrop-blur-sm" style="background: rgba(16,185,129,0.1)">
   <h3>BBVA</h3>
   <p class="text-sm">Full Stack Developer</p>
-  <p class="text-xs">Web Components, Java</p>
+  <p class="text-xs">Web Components, Polymer, Java</p>
 </div>
 
 <div class="p-4 rounded backdrop-blur-sm" style="background: rgba(236,72,153,0.1)">
@@ -266,37 +266,6 @@ graph TD
     L --> M[Vitest]
     L --> N[Jest]
 ```
----
-layout: default
----
-
-# <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Libros y Blogs Recomendados</span>
-
-<div class="grid grid-cols-2 gap-4 mt-4">
-<v-clicks>
-
-<div class="p-4 rounded backdrop-blur-sm" style="background: rgba(59,130,246,0.1)">
-  <h3>📚 Libros</h3>
-  <ul class="text-sm">
-    <li>"Eloquent JavaScript" - Marijn Haverbeke</li>
-    <li>"You Don’t Know JS" - Kyle Simpson</li>
-    <li>"Clean Code" - Robert C. Martin</li>
-    <li>"The Pragmatic Programmer" - Andrew Hunt & David Thomas</li>
-  </ul>
-</div>
-
-<div class="p-4 rounded backdrop-blur-sm" style="background: rgba(16,185,129,0.1)">
-  <h3>📝 Blogs</h3>
-  <ul class="text-sm">
-    <li><a href="https://css-tricks.com" target="_blank">CSS-Tricks</a></li>
-    <li><a href="https://dev.to" target="_blank">Dev.to</a></li>
-    <li><a href="https://smashingmagazine.com" target="_blank">Smashing Magazine</a></li>
-    <li><a href="https://blog.logrocket.com" target="_blank">LogRocket Blog</a></li>
-  </ul>
-</div>
-
-</v-clicks>
-</div>
 
 ---
 layout: cover
@@ -310,7 +279,7 @@ background: 'linear-gradient(135deg, #000428 0%, #004e92 100%)'
 
 <div class="p-4 rounded backdrop-blur-sm" style="background: rgba(59,130,246,0.1)">
   <h3>🎓 Plataformas</h3>
-  <ul class="text-sm">
+  <ul class="text-sm" style="list-style-type: none;">
     <li>Udemy</li>
     <li>Platzi</li>
     <li>freeCodeCamp</li>
@@ -319,28 +288,29 @@ background: 'linear-gradient(135deg, #000428 0%, #004e92 100%)'
 </div>
 
 <div class="p-4 rounded backdrop-blur-sm" style="background: rgba(16,185,129,0.1)">
-  <h3>🤖 IA Tools</h3>
-  <ul class="text-sm">
-    <li>GitHub Copilot</li>
-    <li>ChatGPT</li>
-    <li>Tabnine</li>
+  <h3>📚 Libros</h3>
+  <ul class="text-sm" style="list-style-type: none;">
+    <li>"Eloquent JavaScript" - Marijn Haverbeke</li>
+    <li>"You Don’t Know JS" - Kyle Simpson</li>
+    <li>"Clean Code" - Robert C. Martin</li>
+    <li>"Javascript para programadores impacientes" - Dr. Axel Rauschmayer</li>
   </ul>
 </div>
 
 <div class="p-4 rounded backdrop-blur-sm" style="background: rgba(236,72,153,0.1)">
   <h3>👥 Comunidades</h3>
-  <ul class="text-sm">
+  <ul class="text-sm" style="list-style-type: none;">
     <li>Dev.to</li>
     <li>Stack Overflow</li>
     <li>GitHub</li>
     <li>Meetup</li>
-    <li>Codepen</li>
+    <li>Midudev</li>
   </ul>
 </div>
 
 <div class="p-4 rounded backdrop-blur-sm" style="background: rgba(139,92,246,0.1)">
   <h3>📜 Certificaciones</h3>
-  <ul class="text-sm">
+  <ul class="text-sm" style="list-style-type: none;">
     <li>AWS Certified</li>
     <li>Azure Fundamentals</li>
     <li>Google Cloud</li>
